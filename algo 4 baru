@@ -1,0 +1,4 @@
+for angka in range(7, 2, -1):
+    for i in range(angka):
+        print(angka, end="")
+    print()
